@@ -1,0 +1,5 @@
+Variables: Le puedo agregar un valor para usarlo mas tarde, para hacerlo utilizamos la palabra 'Var'
+Strings: Texto que se define entre comillas
+Funciones (argumentos, return): Las funciones nos sirven para calcular, cambiar las variables. Los argumentos se pasan a las funciones por valor, por ultimo, 'return' es la unica forma que tenemos para que los datos escapen de una funcion, devolviendonos lo especificado por 'return'
+Declaraciones if: Es nuestra forma para que la funcion verifique si algo es verdadero
+Valores booleanos (true, false): Los utilizamos para decir si algo es verdadero o falso, es nuestra resputa a la funcion.
