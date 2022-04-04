@@ -1,0 +1,4 @@
+'For': se utiliza para crear un bucle y que no escribamos codigo reiteradas veces. Tiene una estructura compuesta por una variable, una condicion de frenado y un incremento
+&&: Es un operador que evalua las expresiones y devuelve true si todas las expresiones son verdaderas
+||: Es un operador que evalua las expresiones y devuelve true si una de las expresiones es verdadera
+! : significa 'not' (no) devuelve un valor opuesto a resultado
